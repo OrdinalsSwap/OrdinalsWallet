@@ -8,3 +8,5 @@ This wallet supports signing PSBT transactions for selling and buying Inscriptio
 This wallet only makes GET requests for inscription/transaction and utxo lists.
 
 To broadcast a transaction you need to use a sparrow wallet or public mempool/blockcyper
+
+For more information join our discord: https://discord.gg/W9nFBR2rJD
