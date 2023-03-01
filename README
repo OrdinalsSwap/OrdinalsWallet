@@ -3,3 +3,8 @@
 This is the offical release for OrdSwap.com Wallet
 
 Currently only Windows supported, OSX support pending.
+
+This wallet supports signing PSBT transactions for selling and buying Inscriptions in ordswap.com
+This wallet only makes GET requests for inscription/transaction and utxo lists.
+
+To broadcast a transaction you need to use a sparrow wallet or public mempool/blockcyper
